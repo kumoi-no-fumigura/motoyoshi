@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/motoyoshi",
  "yomi": "もとよししんのうぎょしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安中期（10世紀）",
+  "author": "元良親王（890〜943）",
+  "desc": "陽成院の皇子、元良親王の家集。冒頭に色好みの皇子として知られたことを記し、多くの女との恋の贈答を物語風に収める。"
+ },
  "editions": [
   {
    "pid": "1879517",
@@ -1914,6 +1919,6 @@
   "poems": 166,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
